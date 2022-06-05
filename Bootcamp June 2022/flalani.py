@@ -1,1 +1,1 @@
-print("Well done! If you are viewing this file, it means you successfully cloned a GitHub repo!")
+print("As I handed my Dad his 50th birthday card, he looked at me with tears in his eyes and said, 'you know, one would have been enough!'")
